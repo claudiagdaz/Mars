@@ -1,2 +1,2 @@
 Making the commits diverge between local and remote.
-Creating a conflict
+But in a pull request.
